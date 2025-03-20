@@ -1,0 +1,12 @@
+\app
+app.
+# Ignore Python environment, cache, and system files
+__pycache__/
+*.pyc
+.DS_Store
+env/
+venv/
+.vscode/
+.idea/
+node_modules/
+*.log
