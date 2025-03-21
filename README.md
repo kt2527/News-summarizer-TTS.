@@ -9,4 +9,4 @@
 🌐 Deployment: Hosted on Hugging Face Spaces.
 🛠 Tech Stack
 Python, BeautifulSoup, Flask, Hugging Face Transformers
-NLTK, TextBlob, gTTS, Streamlit 
+NLTK, TextBlob, gTTS, Streamlit
